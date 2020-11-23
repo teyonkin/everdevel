@@ -2,3 +2,4 @@
 2. HTML 완료
 3. CSS 완료 
 4. jQuery 중반까지완료
+5. Front-End Project 초반 작성 중
