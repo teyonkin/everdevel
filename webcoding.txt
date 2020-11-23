@@ -1,4 +1,4 @@
 1. 서문
 2. HTML 완료
 3. CSS 완료 
-4. jQuery 중반까지완료
+4. jQuery 중반까지완료 
